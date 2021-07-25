@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-struct soldier {
+struct soldier {// helloooooooooooooooooooooooooooooooooo
 	int id;
 	bool isAlive;
 };
